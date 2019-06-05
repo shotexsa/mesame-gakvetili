@@ -1,3 +1,9 @@
+body{
+	padding:30px;
+}
+header{
+	margin-booton:40px;
+}
 .title{
 	font-size:40px;
 	color:red;
@@ -10,4 +16,21 @@
 }
 .desk{
 	display:inline-block;
+	width:600px;
+	
+}
+.logo{
+	display:inline-block;
+	margin-right:30px;
+	vertical-align:middle;
+}
+.logo img {
+	height:30px;
+}
+.navbar{
+	display:inline-block;
+}
+.navbar-li{
+	display:inline-block;
+	margin-right:30px;
 }
