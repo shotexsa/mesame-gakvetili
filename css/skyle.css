@@ -1,0 +1,13 @@
+.title{
+	font-size:40px;
+	color:red;
+	text-align:cenre;
+	display:inline-block;
+	widht:500px;
+	height:200px;
+	background-color:green;
+	padding:55px;
+}
+.desk{
+	display:inline-block;
+}
